@@ -1,3 +1,10 @@
+October 18th, 2019
+
+- Sec. string 2019-10-06
+- System Webview M77
+- Kernel: Switched to slightly upstreamed 'mse_v4'-branch
+
+
 September 13th, 2019
 
 - Sec. string 2019-09-05
