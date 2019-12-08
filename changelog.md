@@ -1,3 +1,10 @@
+December 7th, 2019
+
+- Sec. string 2019-12-05
+- System Webview M78
+- Updated iptables and netd
+
+
 November 10th, 2019
 
 - Sec. string 2019-11-05
