@@ -1,3 +1,10 @@
+April 11th, 2020
+
+- Sec. string 2020-04-05
+- Fix for CVE-2020-8597 (external/ppp)
+- Kernel: CVE-2019-10638 siphash 128bit for IP generation
+
+
 March 16th, 2020
 
 - Sec. string 2020-03-01
