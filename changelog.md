@@ -1,3 +1,8 @@
+June 12th, 2020
+
+- Sec. string 2020-06-05
+
+
 May 8th, 2020
 
 - Sec. string 2020-05-05
