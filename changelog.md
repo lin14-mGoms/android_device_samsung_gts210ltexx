@@ -1,3 +1,11 @@
+November 14th, 2020
+
+- Sec. string 2020-11-05
+- Additional fix for CVE-2020-15999
+- System Webview M86
+- Fix of AOSP E-Mail widget
+
+
 October 14th, 2020
 
 - Sec. string 2020-10-05
