@@ -1,3 +1,9 @@
+December 20th, 2020
+
+- Security string 2020-12-05
+- System Webview M87
+
+
 November 14th, 2020
 
 - Sec. string 2020-11-05
